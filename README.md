@@ -65,6 +65,7 @@ Cancellation rate
 Order status
 Market & customer segment slicers
 
+
 Tools Used -
 Power BI Desktop
 Power Query
@@ -72,3 +73,22 @@ DAX
 Star Schema Data Modeling
 Bing Maps
 Power BI Visualizations
+
+Screenshots -
+### Executive Summary
+![Executive Summary](executive_summary.png)
+
+### Delivery & Supply Chain
+![Delivery & Supply Chain](Delivery%20%26%20supply%20chain.png)
+
+### Sales & Product
+![Sales & Product](Sales%20%26%20Product.png)
+
+### Customer Analysis
+![Customer Analysis](Customer.png)
+
+### Geographic Analysis
+![Geographic Analysis](Geographic.png)
+
+### Risk Analysis
+![Risk Analysis](Risk_secondary.png)
